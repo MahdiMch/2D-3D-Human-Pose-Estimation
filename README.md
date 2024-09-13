@@ -4,6 +4,5 @@ This method is efficient for handling multiple people in an image but may strugg
 While the top-down approach generally offers higher accuracy, especially for single-person pose estimation, it can be more computationally demanding when multiple people are involved.
 
 ![102](https://github.com/user-attachments/assets/f1bdd885-919f-41ab-8e62-ece9eb4a4880)
-![Mediapipe test1](https://github.com/user-attachments/assets/18487ddb-9a7c-46f4-b20d-1387c4c515f9)
 ![Mediapipe test 2](https://github.com/user-attachments/assets/b8790f43-ae58-4003-966d-3963794f5b82)
 ![Mediapipe test 22](https://github.com/user-attachments/assets/ec1f2b6d-aabc-4fed-b9bb-c7b54caca92b)
