@@ -8,3 +8,4 @@ While the top-down approach generally offers higher accuracy, especially for sin
 ![Mediapipe test1](https://github.com/user-attachments/assets/c1851b9b-bf0c-4369-ae66-642f9ed6d5f4)
 ![Mediapipe test 22](https://github.com/user-attachments/assets/2fbd9db8-6009-4042-9600-59d58ad96d5d)
 ![00](https://github.com/user-attachments/assets/37aecfdb-f90c-4178-a718-71f12f292ab0)
+![2](https://github.com/user-attachments/assets/65df21ee-4834-4627-a251-dd6aa236c08d)
