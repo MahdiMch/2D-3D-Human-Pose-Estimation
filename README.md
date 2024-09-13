@@ -3,6 +3,7 @@ Two primary approaches are commonly used in this process: bottom-up and top-down
 This method is efficient for handling multiple people in an image but may struggle with accuracy in more complex scenes. On the other hand, the top-down approach first identifies each person in the image with a bounding box, then applies pose estimation models to locate keypoints within these detected areas. 
 While the top-down approach generally offers higher accuracy, especially for single-person pose estimation, it can be more computationally demanding when multiple people are involved.
 
-![102](https://github.com/user-attachments/assets/f1bdd885-919f-41ab-8e62-ece9eb4a4880)
-![Mediapipe test 2](https://github.com/user-attachments/assets/b8790f43-ae58-4003-966d-3963794f5b82)
-![Mediapipe test 22](https://github.com/user-attachments/assets/ec1f2b6d-aabc-4fed-b9bb-c7b54caca92b)
+
+![Mediapipe test 2](https://github.com/user-attachments/assets/79c95126-67e8-47a8-815d-4eab297bb3a9)
+![Mediapipe test1](https://github.com/user-attachments/assets/c1851b9b-bf0c-4369-ae66-642f9ed6d5f4)
+![Mediapipe test 22](https://github.com/user-attachments/assets/2fbd9db8-6009-4042-9600-59d58ad96d5d)
